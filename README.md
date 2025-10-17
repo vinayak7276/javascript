@@ -1,2 +1,2 @@
 # lecture2js
-this is repo for practice question of javascript of lecture 2
+this is repo for javascript all lectures questions
